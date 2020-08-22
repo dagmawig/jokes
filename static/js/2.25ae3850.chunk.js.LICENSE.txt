@@ -22,13 +22,6 @@ object-assign
 */
 
 /*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*!
  * jQuery JavaScript Library v3.5.1
  * https://jquery.com/
  *
@@ -41,10 +34,6 @@ object-assign
  *
  * Date: 2020-05-04T22:49Z
  */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /** @license React v0.19.1
  * scheduler.production.min.js
